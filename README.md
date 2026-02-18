@@ -75,7 +75,7 @@ https://youtube.com/playlist?list=PLe-jr3hh4N_nPMfBARe3KNUVkjcMaq17q&si=3quhC12P
 
 ## 🧑‍💼 Moderators
 
-- Bilal Memon
+- [Bilal Memon](https://github.com/BilalMemon010)
 - [Shaista Zulfiqar](https://github.com/shaistaDev7)
 - [Kashmala Saddiqui](https://github.com/kashmalaasif)
 
