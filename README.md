@@ -24,7 +24,7 @@ This repo contains **all code, implementations, and practice problems** used in 
 - Day 2 — Recurrences & Ways to solve it (Substitution, Tree, and Master Theorem)
 - Day 3 — Divide and Conquer Paradigm
 - Day 4 — Advanced Divide & Conquer
-- Day 5 — Proof of Correctness
+- Day 5 — Leetcode Problems
 
 ---
 
